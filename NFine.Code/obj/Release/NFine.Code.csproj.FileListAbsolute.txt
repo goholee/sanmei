@@ -1,0 +1,17 @@
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NFine.Code.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NFine.Code.pdb
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\log4net.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\Newtonsoft.Json.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.OOXML.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.OpenXml4Net.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.OpenXmlFormats.dll
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\log4net.xml
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\Newtonsoft.Json.xml
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.xml
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.OOXML.xml
+D:\dev\MyNFine_SM\NFine.Code\bin\Release\NPOI.OpenXml4Net.xml
+D:\dev\MyNFine_SM\NFine.Code\obj\Release\NFine.Code.csprojResolveAssemblyReference.cache
+D:\dev\MyNFine_SM\NFine.Code\obj\Release\NFine.Code.dll
+D:\dev\MyNFine_SM\NFine.Code\obj\Release\NFine.Code.pdb
